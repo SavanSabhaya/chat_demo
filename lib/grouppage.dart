@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:socket_io_client/socket_io_client.dart' as IO;
-import 'package:soket_io_demo/message_eidget/other_meassge_widget.dart';
-import 'package:soket_io_demo/message_eidget/own_message_widget.dart';
+import 'package:soket_io_demo/message_weidget/other_message_widget.dart';
+import 'package:soket_io_demo/message_weidget/own_message_widget.dart';
 import 'package:soket_io_demo/model.dart';
 
 class GroupPage extends StatefulWidget {
